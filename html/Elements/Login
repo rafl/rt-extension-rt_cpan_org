@@ -110,7 +110,7 @@ unless (!defined($uri->authority) || $uri->authority eq $uri_base_url->authority
 
 <div class="input-row">
     <span class="label"><&|/l&>Password</&>:</span>
-    <span class="input"><input type="password" name="pass" autocomplete="off" /></span>
+    <span class="input"><input type="password" name="pass" /></span>
 </div>
 
 <div class="button-row">
